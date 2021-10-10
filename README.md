@@ -26,32 +26,27 @@ Replacing the ninth-grade scores this way affected the following metrics:
   - Thomas High School was ranked second based on their overall passing %, and that did not change after removing their ninth-grade scores
   - The overall passing % did drop just slightly, but not enough to change their ranking
 
-- **Math and reading scores by grade**
-  - Before:
-  ![image5]()
-  
-  - After: 
-  ![image6]()
+- **Math and reading scores by grade** - The average scores for math and reading in 10th - 12th graders did not change with the removal of the 9th grade scores. The change is only apparent when you average all of the grades together before at the school and district levels.
 
 - **Scores by school spending**
   - Before:
-  ![image7]()
+  ![image7](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/Scores%20by%20school%20spending_Before.png)
   
   - After: 
-  ![image8]()
+  ![image8](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/Scores%20by%20school%20spending_After.png)
 
 - **Scores by school size**
   - Before:
-  ![image9]()
+  ![image9](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/Scores%20by%20school%20size_Before.png)
   
   - After: 
-  ![image10]()
+  ![image10](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/Scores%20by%20school%20size_After.png)
 
 - **Scores by school type**
   - Before:
-  ![image12]()
+  ![image12](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/ScoresBySchoolTypeBefore.png)
   
   - After: 
-  ![image13]()
+  ![image13](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/ScoresBySchoolTypeAfter.png)
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
