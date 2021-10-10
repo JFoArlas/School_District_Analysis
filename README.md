@@ -8,14 +8,14 @@ The math and reading scores for the 9th grade students at Thomas High School wer
 
 Replacing the ninth-grade scores this way affected the following metrics:
 
-- **District Summary**
+- **District Summary** - The percentage of students passing math, reading, and the combination of both went down slightly. The average math score also went down slightly, but the average reading score did not change at the district level.
   - Before:
   ![image1](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/DistrictSummaryBefore.png)
   
   - After: 
   ![image2](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/DistrictSummaryAfter.png)
 
-- **School Summary**
+- **School Summary** - The percentage of students passing math, reading, and the combination of both went down slightly. The average math score also went down slightly, but the average reading score actually went up very slightly at the school level. 
   - Before:
   ![image3](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/SchoolSummaryBefore.png)
   
