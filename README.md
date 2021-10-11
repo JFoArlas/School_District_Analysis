@@ -30,23 +30,31 @@ Replacing the ninth-grade scores this way affected the following metrics:
   - Thomas High School was ranked second based on their overall passing %, and that did not change after removing their ninth-grade scores.
   - The overall passing % did drop just slightly as seen in the images above, but it was not enough to change their ranking.
 
-- **Math and reading scores by grade** - The average scores for math and reading in 10th-12th graders did not change with the removal of the 9th grade scores. The change is only apparent when you average all of the grades together at the school and district levels.
+- **Math and reading scores by grade**
+  - The average scores for math and reading in 10th-12th graders did not change with the removal of the 9th grade scores. 
+  - The change is only apparent when you average all of the grades together at the school and district levels.
 
-- **Scores by school spending** - Those 461 9th grade students at Thomas High School whose scores were removed were still included in the total number of students at the school. So while the school's scores changed slightly, the school size and per student budget did not change. The scores for Thomas High School also did not change enough to alter the averages in the $630-644 school spending bucket.
+- **Scores by school spending**
+  - Those 461 9th grade students at Thomas High School whose scores were removed were still included in the total number of students at the school. So while the school's scores changed slightly, the school size and per student budget did not change. 
+  - The scores for Thomas High School did not change enough to alter the averages for all schools who spend $630-644/student.
 
 ![image5](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/Scores%20by%20school%20spending_After.png)
  
-- **Scores by school size** - Again, because the total number of students was not affected by removing the scores, Thomas High School remained in the "Medium" school size bucket. The scores for Thomas High School did not change enough to alter the averages in the Medium bucket either.
+- **Scores by school size**
+  - Again, because the total number of students was not affected by removing the scores, Thomas High School remained in the "Medium" school size bucket. 
+  - The scores for Thomas High School did not change enough to alter the averages for all medium sized schools.
 
 ![image6](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/Scores%20by%20school%20size_After.png)
 
-- **Scores by school type** - 
+- **Scores by school type**
+  - The removal of Thomas High 9th grade student scores does not affect which school type Thomas High School is in.
+  - The scores for Thomas High School did not change enough to alter the averages for all Charter school students.
 
-  ![image13](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/ScoresBySchoolTypeAfter.png)
+  ![image7](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/ScoresBySchoolTypeAfter.png)
 
-## Summary: Replacing reading and math scores with NaNs for the ninth grade students at Thomas High School had the following 4 effects:
+## Summary: Replacing reading and math scores with NaNs for the ninth grade students at Thomas High School resulted in the following changes:
 
-1. 
-2. 
-3. 
-4. 
+1. Thomas High School's Average Math Score went from 83.42 to 83.35
+2. Thomas High School's Average Reading Score went from 83.85 to 83.90
+3. Thomas High School's % Passing Math went from 93.27 to 93.19
+4. Thomas High School's % Passing Reading went from 97.30 to 97.02
