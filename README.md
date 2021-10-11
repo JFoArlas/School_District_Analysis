@@ -10,43 +10,43 @@ Replacing the ninth-grade scores this way affected the following metrics:
 
 - **District Summary** - The percentage of students passing math, reading, and the combination of both went down slightly. The average math score also went down slightly, but the average reading score did not change at the district level.
   - Before:
+  
   ![image1](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/DistrictSummaryBefore.png)
   
-  - After: 
+  - After:
+  
   ![image2](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/DistrictSummaryAfter.png)
 
 - **School Summary** - The percentage of students passing math, reading, and the combination of both went down slightly. The average math score also went down slightly, but the average reading score actually went up very slightly at the school level. 
   - Before:
+  
   ![image3](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/SchoolSummaryBefore.png)
   
-  - After: 
+  - After:
+  
   ![image4](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/SchoolSummaryAfter.png)
 
 - **Thomas High School’s performance relative to the other schools**
-  - Thomas High School was ranked second based on their overall passing %, and that did not change after removing their ninth-grade scores
-  - The overall passing % did drop just slightly, but not enough to change their ranking
+  - Thomas High School was ranked second based on their overall passing %, and that did not change after removing their ninth-grade scores.
+  - The overall passing % did drop just slightly as seen in the images above, but it was not enough to change their ranking.
 
-- **Math and reading scores by grade** - The average scores for math and reading in 10th - 12th graders did not change with the removal of the 9th grade scores. The change is only apparent when you average all of the grades together before at the school and district levels.
+- **Math and reading scores by grade** - The average scores for math and reading in 10th-12th graders did not change with the removal of the 9th grade scores. The change is only apparent when you average all of the grades together at the school and district levels.
 
-- **Scores by school spending**
-  - Before:
-  ![image7](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/Scores%20by%20school%20spending_Before.png)
-  
-  - After: 
-  ![image8](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/Scores%20by%20school%20spending_After.png)
+- **Scores by school spending** - Those 461 9th grade students at Thomas High School whose scores were removed were still included in the total number of students at the school. So while the school's scores changed slightly, the school size and per student budget did not change. The scores for Thomas High School also did not change enough to alter the averages in the $630-644 school spending bucket.
 
-- **Scores by school size**
-  - Before:
-  ![image9](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/Scores%20by%20school%20size_Before.png)
-  
-  - After: 
-  ![image10](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/Scores%20by%20school%20size_After.png)
+![image5](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/Scores%20by%20school%20spending_After.png)
+ 
+- **Scores by school size** - Again, because the total number of students was not affected by removing the scores, Thomas High School remained in the "Medium" school size bucket. The scores for Thomas High School did not change enough to alter the averages in the Medium bucket either.
 
-- **Scores by school type**
-  - Before:
-  ![image12](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/ScoresBySchoolTypeBefore.png)
-  
-  - After: 
+![image6](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/Scores%20by%20school%20size_After.png)
+
+- **Scores by school type** - 
+
   ![image13](https://github.com/JFoArlas/School_District_Analysis/blob/main/Resources/Images/ScoresBySchoolTypeAfter.png)
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: Replacing reading and math scores with NaNs for the ninth grade students at Thomas High School had the following 4 effects:
+
+1. 
+2. 
+3. 
+4. 
